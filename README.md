@@ -1,4 +1,7 @@
 # 🎲Guess The Number 🎲
+
+![1](https://user-images.githubusercontent.com/107346999/192157688-33507299-1031-46d0-bad8-deaef67e4ff2.jpg)
+
 A simple console game "Guess the number" writen by basic comands.
 It’s a simple one player game, where have to guess your's oponent(computer) number. The rules are as follows:
 
