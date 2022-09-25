@@ -18,5 +18,5 @@ The computer choses a random number to guess.
 
 # ScreenShots
 
-![1](file:///C:/Users/GhzUser/Desktop/screen1.jpg)
-![2](file:///C:/Users/GhzUser/Desktop/screen2.jpg)
+![1](https://user-images.githubusercontent.com/107346999/192157560-28d52c26-46f4-45e5-8d91-53e4ba43258b.jpg)
+![2](https://user-images.githubusercontent.com/107346999/192157563-cb5fec0e-fe52-4bb5-b586-fc93299f38f7.jpg)
