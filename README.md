@@ -16,6 +16,9 @@ It’s a simple one player game, where have to guess your's oponent(computer) nu
 
 The player enters a number between 0 and 100. 
 The computer choses a random number to guess.
+if you pick the right number, the game ends, 
+if you don't, will asko you to try again.
+The game end when you find the right number.
 
 [live demo](https://replit.com/@StoyanMihaylov9/CuessTheNumber/).
 
